@@ -268,7 +268,7 @@ Options:
 | nlziet                     | NLZIET                    | ✓             | ✓            | ✓                  | ✓              | ✓              |
 | nordvpn                    | Nord VPN                  |               | ✓            | ✓                  | ✓              | ✓              |
 | nostv                      | NOSTV                     | ✓             | ✓            | ✓                  | ✓              | ✓              |
-| now-tv                     | Now TV                    |               | ✓            |                    |                |                |
+| now-tv                     | Now TV                    |               | ✓            | ✓                  |                |                |
 | npo                        | NPO (NL)                  | ✓             |              | ✓                  | ✓              | ✓              |
 | optus-sport                | Optus Sport (AU)          | ✓             | ✓            | ✓                  | ✓              | ✓              |
 | ott-navigator              | OTT Navigator             |               | ✓            | ✓                  | ✓              | ✓              |

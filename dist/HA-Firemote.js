@@ -2020,7 +2020,14 @@ const fastappchoices = {
       "appName": "NOW",
       "androidName": "com.bskyb.nowtv.beta",
       "adbLaunchCommand": "adb shell am start -n com.bskyb.nowtv.beta/sky.wrapper.tv.AmazonMainActivity",
-      "deviceFamily": ["amazon-fire"], },
+      "deviceFamily": ["amazon-fire","chromecast"], 
+      "amazon-fire": {
+        "adbLaunchCommand": "adb shell am start -n com.bskyb.nowtv.beta/sky.wrapper.tv.AmazonMainActivity",
+      }
+      "chromecast": {
+        "adbLaunchCommand": "adb shell am start -n com.bskyb.nowtv.beta/sky.wrapper.tv.GoogleMainActivity",
+      }
+   },
 
 
   "npo": {
